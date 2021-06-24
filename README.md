@@ -14,3 +14,7 @@ For any enquires contact support@apimatic.io
 Happy generating!
 
 APIMATIC
+
+change #1 from feature-1
+change #2 from feature-1 
+change #3 from feature-1
